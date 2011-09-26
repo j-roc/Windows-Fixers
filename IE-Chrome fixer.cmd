@@ -1,7 +1,4 @@
-:: Jesse Kulenski
-:: 5/9/11
-
-:: This is the IE/Chrome fixer script, originally part of The One Batch File to Rule Them All, now in convenient component form.
+:: This was originally created for an evironment where IE was meant to be the default browser due to specific webapps used by the userbase, but Chrome/gmail was used for email. This script forced ideal browser settings. Modify it as you like. 
 
 :: It will: 
 
