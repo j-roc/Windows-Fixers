@@ -1,16 +1,15 @@
 :: Jesse Kulenski
-:: Support Central
 :: 5/9/11
 
 :: This is the IE/Chrome fixer script, originally part of The One Batch File to Rule Them All, now in convenient component form.
+
 :: It will: 
 
 :: Delete IE temp files, history, cookies, saved form data, stored passwords
-:: Delete Chrome temp files, history, cookies, saved form data, stored passwords
-:: repopuplate default preferences for google apps
+:: Delete Chrome temp files, history, cookies,
 :: set gmail as the default mail client
 :: set IE as default browser
-:: set BBoard as IE homepage
+:: set Google as IE homepage
 :: disable IE script debugging
 :: flush DNS cache
 
