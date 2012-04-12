@@ -23,6 +23,8 @@ RunDll32 advpack.dll,LaunchINFSection %windir%\\INF\\msmsgs.inf,BLC.Remove
 
 :: Set visual style to windows classic
 
+
+
 :: turn off run desktop clean off wizard
 
 :: Add My Computer, etc icons to desktop
