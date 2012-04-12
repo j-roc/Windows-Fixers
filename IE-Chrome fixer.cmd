@@ -1,10 +1,12 @@
-:: This was originally created for an evironment where IE was meant to be the default browser due to specific webapps used by the userbase, but Chrome/gmail was used for email. This script forced ideal browser settings. Modify it as you like. 
+:: This was originally created for an evironment where IE was meant to be the default browser due to 
+:: specific webapps used by the userbase, but Chrome/gmail was used for email. This script forced ideal 
+:: browser settings. Modify it as you like. 
 
 :: It will: 
 
 :: Delete IE temp files, history, cookies, saved form data, stored passwords
 :: Delete Chrome temp files, history, cookies,
-:: set gmail as the default mail client
+:: set Gmail as the default mail client
 :: set IE as default browser
 :: set Google as IE homepage
 :: disable IE script debugging
